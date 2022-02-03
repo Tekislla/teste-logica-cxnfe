@@ -1,5 +1,4 @@
-programa
-{
+programa {
 	inclua biblioteca Matematica --> mat
 	
 	funcao inicio()
@@ -19,9 +18,9 @@ programa
 		
 		
 		se (media >= 7) {
-        		escreva("Você foi aprovado com média ", mat.arredondar(media, 2))
+        		escreva("VocÃª foi aprovado com mÃ©dia ", mat.arredondar(media, 2))
 		} senao {
-			escreva("Você foi reprovado com média ", mat.arredondar(media, 2))
+			escreva("VocÃª foi reprovado com mÃ©dia ", mat.arredondar(media, 2))
 		}
 
 	}
