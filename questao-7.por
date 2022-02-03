@@ -1,4 +1,5 @@
 programa {
+
 	inclua biblioteca Matematica --> mat
 	
 	funcao inicio() {
