@@ -22,7 +22,5 @@ programa {
 		} senao {
 			escreva("Você foi reprovado com média ", mat.arredondar(media, 2))
 		}
-
 	}
 }
-
