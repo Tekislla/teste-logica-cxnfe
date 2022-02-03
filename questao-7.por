@@ -1,8 +1,7 @@
 programa {
 	inclua biblioteca Matematica --> mat
 	
-	funcao inicio()
-	{
+	funcao inicio() {
 		real nota1, nota2, nota3, media
 		
 		escreva("Digite a primeira nota: ")
